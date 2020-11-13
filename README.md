@@ -62,6 +62,16 @@ Lipton. [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 
 * The umbrella term "Explainable AI" encompasses at least three distinct notions : **transparency**, **explainability**, and **interpretability**.
 
+## NLP
+
+Tim Miller
+
+## Governance & Infrastructure
+
+[Artificial Intelligence Strategies for National Security and Safety Standards](https://arxiv.org/ftp/arxiv/papers/1911/1911.05727.pdf). In 
+Philipps et al. [Four Principles of Explainable Artificial Intelligence](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf). Draft NISTIR 8312 
+NIST Research XAI [AI Foundational Research - Explainability](https://www.nist.gov/topics/artificial-intelligence/ai-foundational-research-explainability)
+
 ## Blogs
 
 [The What of Explainable AI](https://www.elementai.com/news/2019/the-what-of-explainable-ai)
